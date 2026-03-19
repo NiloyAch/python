@@ -29,3 +29,6 @@ print(num1/num2)
 print(10/3)
 print(10%3)
 print(10//3) #purno vag fol
+
+power = num1**num2    #power calculation
+print(power)
